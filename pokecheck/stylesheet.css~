@@ -1,0 +1,54 @@
+* {
+	font-family: sans-serif;
+	margin:10px;
+}
+#header {
+	background-color: #FFFFFF;
+	padding: 0.2em;
+	width:50em;
+	padding-bottom:20px;
+	margin:10px;
+	border-color: black;
+	border-style: solid;
+}
+div {
+	border-radius: 5px;
+	display:inline-block;
+}
+body {
+/* 	background-color: #000044; */
+	background:"mms.png";
+	margin-top:2em;
+	width:60em;
+}
+.button:hover {
+	background-color: #DDDDDD;
+	color: black;
+}
+.button {
+	background-color: black;
+	padding: 10px;
+	color: #000000;
+	position:absolute;
+	margin:-10px 10px 10px 10px;
+	color: white;
+}
+#page{
+	background-color: #FFFFFF;
+	padding: 0.2em;
+	width:50em;
+	padding-bottom:20px;
+	margin:10px;
+	border-color: black;
+	border-style: solid;
+}
+#title {
+	padding-top:10px;
+}
+
+.type-fire {
+	background-color: orange;
+	margin: 2px;
+	padding:0.2em;
+	color: red;
+}

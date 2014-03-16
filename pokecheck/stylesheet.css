@@ -1,0 +1,175 @@
+* {
+	font-family: sans-serif;
+	margin:10px;
+}
+#header {
+	background-color: #FFFFFF;
+	padding: 0.2em;
+	width:50em;
+	padding-bottom:20px;
+	margin:10px;
+	border-color: black;
+	border-style: solid;
+}
+div {
+	border-radius: 5px;
+	display:inline-block;
+}
+body {
+/* 	background-color: #000044; */
+	background:"mms.png";
+	margin-top:2em;
+	width:60em;
+}
+.button:hover {
+	background-color: #DDDDDD;
+	color: black;
+}
+.button {
+	background-color: black;
+	padding: 10px;
+	color: #000000;
+	position:absolute;
+	margin:-10px 10px 10px 10px;
+	color: white;
+}
+#page{
+	background-color: #FFFFFF;
+	padding: 0.2em;
+	width:50em;
+	padding-bottom:20px;
+	margin:10px;
+	border-color: black;
+	border-style: solid;
+}
+#title {
+	padding-top:10px;
+}
+
+.type-normal {
+	background-color: white;
+	border: 1px solid;
+	margin: 2px;
+	padding:0.2em;
+	color: black;
+}
+
+.type-fighting {
+	background-color: #F7BE81;
+	margin: 2px;
+	padding:0.2em;
+	color: black;
+}
+
+.type-flying {
+	background-color: #A9BCF5;
+	margin: 2px;
+	padding:0.2em;
+	color: black;
+}
+
+.type-poison {
+	background-color: #FF00FF;
+	margin: 2px;
+	padding:0.2em;
+	color: black;
+}
+
+.type-ground {
+	background-color: #DBA901;
+	margin: 2px;
+	padding:0.2em;
+	color: black;
+}
+
+.type-rock {
+	background-color: #585858;
+	margin: 2px;
+	padding:0.2em;
+	color: black;
+}
+
+.type-bug {
+	background-color: #C8FE2E;
+	margin: 2px;
+	padding:0.2em;
+	color: black;
+}
+
+.type-ghost {
+	background-color: #8000FF;
+	margin: 2px;
+	padding:0.2em;
+	color: black;
+}
+
+.type-steel {
+	background-color: #D8D8D8;
+	margin: 2px;
+	padding:0.2em;
+	color: black;
+}
+
+.type-fire {
+	background-color: #FE9A2E;
+	margin: 2px;
+	padding:0.2em;
+	color: black;
+}
+
+.type-water {
+	background-color: #2E64FE;
+	margin: 2px;
+	padding:0.2em;
+	color: black;
+}
+
+.type-grass {
+	background-color: #9AFE2E;
+	margin: 2px;
+	padding:0.2em;
+	color: black;
+}
+
+.type-electric {
+	background-color: #F7FE2E;
+	margin: 2px;
+	padding:0.2em;
+	color: black;
+}
+
+.type-psychic {
+	background-color: #F781BE;
+	margin: 2px;
+	padding:0.2em;
+	color: black;
+}
+
+.type-ice {
+	background-color: #58FAF4;
+	margin: 2px;
+	padding:0.2em;
+	color: black;
+}
+
+.type-dragon {
+	background-color: #642EFE;
+	margin: 2px;
+	padding:0.2em;
+	color: black;
+}
+
+.type-dark {
+	background-color: #2A0A1B;
+	margin: 2px;
+	padding:0.2em;
+	color: white;
+}
+
+.type-fairy {
+	background-color: #F6CEE3;
+	margin: 2px;
+	padding:0.2em;
+	color: black;
+}
+
